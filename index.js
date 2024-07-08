@@ -1,4 +1,4 @@
-// Adaptive menu
+
 const onebut = document.querySelector('.toggle');
 const menu = document.querySelector('.nav');
 const menuList = document.querySelector('.nav-list');
